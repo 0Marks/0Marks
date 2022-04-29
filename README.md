@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0Marks
 - 👀 I’m interested in sites in react + react node
 - 🌱 I’m currently learning engineer software
-- 💞️ I’m looking to collaborate on anyting
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: marcosb23x@outlook.com
 
 <!---
